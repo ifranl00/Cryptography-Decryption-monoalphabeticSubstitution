@@ -1,0 +1,21 @@
+
+PRÁCTICA 07
+
+Martes 21 de abril de 2020
+
+
+alf:"aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789 ,.:-()"
+
+Ejercicio 1
+
+texto_01="FúhíYzHX,.Yz UW,xXzYiúuzTzTúzxYHúhxXMzTzXuH-kYVúuzzYÍÍ.zYzÍYzjUXh8YZzpúuzYkUhh.YVúuzTz,úuzXGYuÚXh-kYVúuzzYzÚYhHXuzWwUYÍXuMzX,zVXKWúzKXzÍYzxYÍVYzYxXWHúuYMzzKXzÍYzJWÚIxhWHYzÚY8zKXzÍYzWuÍYZ"
+
+Ejercicio 2
+
+texto_02="Áh(vxmaumEl51:lsheumcE7ÚplimoomÁAfdmhq-iérÁfebm-yha.yCófé -úoe.rylf6:me3 hrúÉ2fgdó4 nvrlá13B(krqÓpx2Ú -yh úAmxeb4-úoiÁscx3f3-x(mjúifebm-mhvjKpn)65"
+
+Ejercicio 3
+
+texto_03="m4whh)ChQlp6DwhjGzhn8K6Lb)3td0Z3SLztQpÚAnéÍZáy"
+
+
